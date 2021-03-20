@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2021-03-20T14:15:58.580Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 OPR/73.0.3856.415" version="14.4.9" etag="43nvcZZZV-WjOR_cFdJo" type="github"><diagram id="-DdKFDMro6IQg4xFct6D">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-20T14:23:43.305Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 OPR/73.0.3856.415" etag="OqOnGH-o-6KT3IW8KD1f" version="14.4.9" type="github">
+  <diagram id="-DdKFDMro6IQg4xFct6D" name="Page-1">
+    <mxGraphModel dx="823" dy="418" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Y8yFa-wnwl8e_kZ0aNfJ-1" value="Problema de Negócio" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];rounded=0;fontStyle=5;dashed=1;shadow=0;sketch=0;glass=0;fontSize=30;direction=west;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="255" y="20" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y8yFa-wnwl8e_kZ0aNfJ-2" value="Estudantes" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="150" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Y8yFa-wnwl8e_kZ0aNfJ-5" value="Professores" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="150" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Y8yFa-wnwl8e_kZ0aNfJ-6" value="Diretores" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="290" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Y8yFa-wnwl8e_kZ0aNfJ-10" value="Brinquedo" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.isocube;isoAngle=15;" vertex="1" parent="1">
+          <mxGeometry x="270" y="170" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Y8yFa-wnwl8e_kZ0aNfJ-11" value="Ordem de Serviço (OS)" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="1">
+          <mxGeometry x="400" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Y8yFa-wnwl8e_kZ0aNfJ-13" value="Pedido Entrada" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="1">
+          <mxGeometry x="400" y="270" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Y8yFa-wnwl8e_kZ0aNfJ-14" value="Contas Pagar" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.banner" vertex="1" parent="1">
+          <mxGeometry x="255" y="350" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Y8yFa-wnwl8e_kZ0aNfJ-15" value="Contas Receber" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.banner" vertex="1" parent="1">
+          <mxGeometry x="255" y="430" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Y8yFa-wnwl8e_kZ0aNfJ-16" value="ONG Jovens Ambientalistas" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="450" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Y8yFa-wnwl8e_kZ0aNfJ-17" value="Clientes" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="290" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Y8yFa-wnwl8e_kZ0aNfJ-18" value="Fornecedores" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="180" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Y8yFa-wnwl8e_kZ0aNfJ-19" value="Caixa" style="shape=message;html=1;whiteSpace=wrap;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="450" width="70" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
