@@ -11,3 +11,7 @@
 > **Flow:** `Flow of the Aplication`
 
 > **SisteMap:** `Àplication's SisteMap`
+
+----
+
+> **OBS.: I'm sorry, but the UML's contents are in Portuguese.**
