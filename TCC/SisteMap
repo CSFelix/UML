@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-13T22:22:54.955Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 OPR/79.0.4143.73" etag="PPZCL1N_BG2GqTPgbscE" version="15.3.7" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-10-13T22:27:32.547Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 OPR/79.0.4143.73" etag="5ZlCw8JkYY3jv8AOBTPz" version="15.3.7" type="github" pages="8">
   <diagram id="o9J-r-5j8x92hlVa1QkN" name="Legenda">
-    <mxGraphModel dx="996" dy="1789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1439" dy="1789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="L3pP-E2MUvE5-EE75F8m-0" />
         <mxCell id="L3pP-E2MUvE5-EE75F8m-1" parent="L3pP-E2MUvE5-EE75F8m-0" />
@@ -243,109 +243,169 @@
           <mxGeometry x="620" y="-630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E5ezyqBi2KAGGrT8bn2w-2" value="Paginação de Produtos" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="vZM0oiX6bYhnlxCU3tKe-1">
-          <mxGeometry x="765" y="-520" width="120" height="60" as="geometry" />
+          <mxGeometry x="765" y="-510" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="zBl7FVEw_qvIUYk4k8nv" name="Relatórios e QRCode">
-    <mxGraphModel dx="917" dy="1628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1439" dy="1789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="xcBkfcjZB_Xhr60FtFD9-0" />
         <mxCell id="xcBkfcjZB_Xhr60FtFD9-1" parent="xcBkfcjZB_Xhr60FtFD9-0" />
-        <mxCell id="xcBkfcjZB_Xhr60FtFD9-2" value="Sistemap Relatórios e QRCode" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];rounded=0;fontStyle=5;dashed=1;shadow=0;sketch=0;glass=0;fontSize=30;direction=west;rotation=0;" vertex="1" parent="xcBkfcjZB_Xhr60FtFD9-1">
+        <mxCell id="xcBkfcjZB_Xhr60FtFD9-2" value="Sistemap Relatórios e QRCode" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];rounded=0;fontStyle=5;dashed=1;shadow=0;sketch=0;glass=0;fontSize=30;direction=west;rotation=0;" parent="xcBkfcjZB_Xhr60FtFD9-1" vertex="1">
           <mxGeometry x="595" y="-1130" width="460" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xcBkfcjZB_Xhr60FtFD9-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="xcBkfcjZB_Xhr60FtFD9-1" source="xcBkfcjZB_Xhr60FtFD9-4" target="xcBkfcjZB_Xhr60FtFD9-7">
+        <mxCell id="xcBkfcjZB_Xhr60FtFD9-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="xcBkfcjZB_Xhr60FtFD9-1" source="xcBkfcjZB_Xhr60FtFD9-4" target="xcBkfcjZB_Xhr60FtFD9-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xcBkfcjZB_Xhr60FtFD9-4" value="C" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="xcBkfcjZB_Xhr60FtFD9-1">
+        <mxCell id="xcBkfcjZB_Xhr60FtFD9-4" value="C" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" parent="xcBkfcjZB_Xhr60FtFD9-1" vertex="1">
           <mxGeometry x="800" y="-1020" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="xcBkfcjZB_Xhr60FtFD9-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="xcBkfcjZB_Xhr60FtFD9-1" source="xcBkfcjZB_Xhr60FtFD9-7" target="xcBkfcjZB_Xhr60FtFD9-8">
+        <mxCell id="xcBkfcjZB_Xhr60FtFD9-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="xcBkfcjZB_Xhr60FtFD9-1" source="xcBkfcjZB_Xhr60FtFD9-7" target="xcBkfcjZB_Xhr60FtFD9-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xcBkfcjZB_Xhr60FtFD9-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="xcBkfcjZB_Xhr60FtFD9-1" source="xcBkfcjZB_Xhr60FtFD9-7" target="xcBkfcjZB_Xhr60FtFD9-9">
+        <mxCell id="xcBkfcjZB_Xhr60FtFD9-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="xcBkfcjZB_Xhr60FtFD9-1" source="xcBkfcjZB_Xhr60FtFD9-7" target="xcBkfcjZB_Xhr60FtFD9-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xcBkfcjZB_Xhr60FtFD9-7" value="Relatórios e QRCode" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="xcBkfcjZB_Xhr60FtFD9-1">
+        <mxCell id="xcBkfcjZB_Xhr60FtFD9-7" value="Relatórios e QRCode" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="xcBkfcjZB_Xhr60FtFD9-1" vertex="1">
           <mxGeometry x="765" y="-890" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xcBkfcjZB_Xhr60FtFD9-8" value="Compartilhar QRCode no Whatsapp e/ou Telegram" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="xcBkfcjZB_Xhr60FtFD9-1">
+        <mxCell id="xcBkfcjZB_Xhr60FtFD9-8" value="Compartilhar QRCode no Whatsapp e/ou Telegram" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="xcBkfcjZB_Xhr60FtFD9-1" vertex="1">
           <mxGeometry x="910" y="-750" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xcBkfcjZB_Xhr60FtFD9-9" value="Salvar QRCode no Dispositivo" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="xcBkfcjZB_Xhr60FtFD9-1">
+        <mxCell id="xcBkfcjZB_Xhr60FtFD9-9" value="Salvar QRCode no Dispositivo" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="xcBkfcjZB_Xhr60FtFD9-1" vertex="1">
           <mxGeometry x="620" y="-750" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="F9Xi8azQtg0ScV4k3DFZ" name="Market">
-    <mxGraphModel dx="917" dy="1628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1439" dy="1789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="6NQLFO6yXk96oUiKo80c-0" />
         <mxCell id="6NQLFO6yXk96oUiKo80c-1" parent="6NQLFO6yXk96oUiKo80c-0" />
-        <mxCell id="6NQLFO6yXk96oUiKo80c-2" value="Sistemap Market" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];rounded=0;fontStyle=5;dashed=1;shadow=0;sketch=0;glass=0;fontSize=30;direction=west;rotation=0;" vertex="1" parent="6NQLFO6yXk96oUiKo80c-1">
+        <mxCell id="6NQLFO6yXk96oUiKo80c-2" value="Sistemap Market" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];rounded=0;fontStyle=5;dashed=1;shadow=0;sketch=0;glass=0;fontSize=30;direction=west;rotation=0;" parent="6NQLFO6yXk96oUiKo80c-1" vertex="1">
           <mxGeometry x="700" y="-1130" width="250" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6NQLFO6yXk96oUiKo80c-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="6NQLFO6yXk96oUiKo80c-1" source="6NQLFO6yXk96oUiKo80c-4" target="6NQLFO6yXk96oUiKo80c-7">
+        <mxCell id="6NQLFO6yXk96oUiKo80c-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="6NQLFO6yXk96oUiKo80c-1" source="6NQLFO6yXk96oUiKo80c-4" target="6NQLFO6yXk96oUiKo80c-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6NQLFO6yXk96oUiKo80c-4" value="D" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="6NQLFO6yXk96oUiKo80c-1">
+        <mxCell id="6NQLFO6yXk96oUiKo80c-4" value="D" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" parent="6NQLFO6yXk96oUiKo80c-1" vertex="1">
           <mxGeometry x="800" y="-1020" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="6NQLFO6yXk96oUiKo80c-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="6NQLFO6yXk96oUiKo80c-1" source="6NQLFO6yXk96oUiKo80c-7" target="6NQLFO6yXk96oUiKo80c-9">
+        <mxCell id="6NQLFO6yXk96oUiKo80c-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="6NQLFO6yXk96oUiKo80c-1" source="6NQLFO6yXk96oUiKo80c-7" target="6NQLFO6yXk96oUiKo80c-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6NQLFO6yXk96oUiKo80c-7" value="Market" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="6NQLFO6yXk96oUiKo80c-1">
+        <mxCell id="6NQLFO6yXk96oUiKo80c-7" value="Market" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="6NQLFO6yXk96oUiKo80c-1" vertex="1">
           <mxGeometry x="765" y="-890" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6NQLFO6yXk96oUiKo80c-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="6NQLFO6yXk96oUiKo80c-1" source="6NQLFO6yXk96oUiKo80c-9" target="6NQLFO6yXk96oUiKo80c-10">
+        <mxCell id="6NQLFO6yXk96oUiKo80c-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="6NQLFO6yXk96oUiKo80c-1" source="6NQLFO6yXk96oUiKo80c-9" target="6NQLFO6yXk96oUiKo80c-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6NQLFO6yXk96oUiKo80c-9" value="Consulta de Produtos" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="6NQLFO6yXk96oUiKo80c-1">
+        <mxCell id="6NQLFO6yXk96oUiKo80c-9" value="Consulta de Produtos" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="6NQLFO6yXk96oUiKo80c-1" vertex="1">
           <mxGeometry x="765" y="-740" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6NQLFO6yXk96oUiKo80c-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="6NQLFO6yXk96oUiKo80c-1" source="6NQLFO6yXk96oUiKo80c-10" target="6NQLFO6yXk96oUiKo80c-14">
+        <mxCell id="6NQLFO6yXk96oUiKo80c-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="6NQLFO6yXk96oUiKo80c-1" source="6NQLFO6yXk96oUiKo80c-10" target="6NQLFO6yXk96oUiKo80c-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6NQLFO6yXk96oUiKo80c-10" value="Visualização de Produtos" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="6NQLFO6yXk96oUiKo80c-1">
+        <mxCell id="6NQLFO6yXk96oUiKo80c-10" value="Visualização de Produtos" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="6NQLFO6yXk96oUiKo80c-1" vertex="1">
           <mxGeometry x="1010" y="-740" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6NQLFO6yXk96oUiKo80c-13" value="Bot envia informações" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="6NQLFO6yXk96oUiKo80c-1">
+        <mxCell id="6NQLFO6yXk96oUiKo80c-13" value="Bot envia informações" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="6NQLFO6yXk96oUiKo80c-1" vertex="1">
           <mxGeometry x="770" y="-584" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6NQLFO6yXk96oUiKo80c-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="6NQLFO6yXk96oUiKo80c-1" source="6NQLFO6yXk96oUiKo80c-14" target="6NQLFO6yXk96oUiKo80c-13">
+        <mxCell id="6NQLFO6yXk96oUiKo80c-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="6NQLFO6yXk96oUiKo80c-1" source="6NQLFO6yXk96oUiKo80c-14" target="6NQLFO6yXk96oUiKo80c-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6NQLFO6yXk96oUiKo80c-14" value="Solicita informações no Whatsapp e/ou Telegram" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="6NQLFO6yXk96oUiKo80c-1">
+        <mxCell id="6NQLFO6yXk96oUiKo80c-14" value="Solicita informações no Whatsapp e/ou Telegram" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="6NQLFO6yXk96oUiKo80c-1" vertex="1">
           <mxGeometry x="1010" y="-584" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="wmXmmn1dQ2tyujpjyaaV" name="Info">
-    <mxGraphModel dx="917" dy="1628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1439" dy="1789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="mrJlCcJt-ZKhYO8zWYr7-0" />
         <mxCell id="mrJlCcJt-ZKhYO8zWYr7-1" parent="mrJlCcJt-ZKhYO8zWYr7-0" />
-        <mxCell id="ojbvEC62vue34sSf4L8J-0" value="Sistemap Info" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];rounded=0;fontStyle=5;dashed=1;shadow=0;sketch=0;glass=0;fontSize=30;direction=west;rotation=0;" vertex="1" parent="mrJlCcJt-ZKhYO8zWYr7-1">
+        <mxCell id="ojbvEC62vue34sSf4L8J-0" value="Sistemap Info" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];rounded=0;fontStyle=5;dashed=1;shadow=0;sketch=0;glass=0;fontSize=30;direction=west;rotation=0;" parent="mrJlCcJt-ZKhYO8zWYr7-1" vertex="1">
           <mxGeometry x="720" y="-1130" width="210" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ojbvEC62vue34sSf4L8J-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="mrJlCcJt-ZKhYO8zWYr7-1" source="ojbvEC62vue34sSf4L8J-2" target="ojbvEC62vue34sSf4L8J-5">
+        <mxCell id="ojbvEC62vue34sSf4L8J-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="mrJlCcJt-ZKhYO8zWYr7-1" source="ojbvEC62vue34sSf4L8J-2" target="ojbvEC62vue34sSf4L8J-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ojbvEC62vue34sSf4L8J-2" value="E" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="mrJlCcJt-ZKhYO8zWYr7-1">
+        <mxCell id="ojbvEC62vue34sSf4L8J-2" value="E" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" parent="mrJlCcJt-ZKhYO8zWYr7-1" vertex="1">
           <mxGeometry x="800" y="-1020" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="UXE6s0Oo6U38gVi99Bhd-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="mrJlCcJt-ZKhYO8zWYr7-1" source="ojbvEC62vue34sSf4L8J-5" target="UXE6s0Oo6U38gVi99Bhd-0">
+        <mxCell id="UXE6s0Oo6U38gVi99Bhd-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="mrJlCcJt-ZKhYO8zWYr7-1" source="ojbvEC62vue34sSf4L8J-5" target="UXE6s0Oo6U38gVi99Bhd-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ojbvEC62vue34sSf4L8J-5" value="Info" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="mrJlCcJt-ZKhYO8zWYr7-1">
+        <mxCell id="ojbvEC62vue34sSf4L8J-5" value="Info" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="mrJlCcJt-ZKhYO8zWYr7-1" vertex="1">
           <mxGeometry x="765" y="-890" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UXE6s0Oo6U38gVi99Bhd-0" value="Esqueceu Senha" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="mrJlCcJt-ZKhYO8zWYr7-1">
+        <mxCell id="UXE6s0Oo6U38gVi99Bhd-0" value="Esqueceu Senha" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="mrJlCcJt-ZKhYO8zWYr7-1" vertex="1">
           <mxGeometry x="765" y="-740" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="tJ4t8adls4Tv9M-VOXtm" name="Leitor QR Code">
+    <mxGraphModel dx="1439" dy="1720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="Zt6HtMiGlr2uJh5FGjIH-0" />
+        <mxCell id="Zt6HtMiGlr2uJh5FGjIH-1" parent="Zt6HtMiGlr2uJh5FGjIH-0" />
+        <mxCell id="nPpXiAHes9jC2TikixrQ-0" value="Sistemap Leitor &lt;br&gt;de QR Code" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];rounded=0;fontStyle=5;dashed=1;shadow=0;sketch=0;glass=0;fontSize=30;direction=west;rotation=0;" vertex="1" parent="Zt6HtMiGlr2uJh5FGjIH-1">
+          <mxGeometry x="705" y="-1060" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ys1ud6LpfR7gAbh48N-3-0" value="F" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="Zt6HtMiGlr2uJh5FGjIH-1">
+          <mxGeometry x="800" y="-920" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mJoxGgI8puOoh07HKANL-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Zt6HtMiGlr2uJh5FGjIH-1" source="Om4oC1EB_jcoSZQff7k3-0" target="mJoxGgI8puOoh07HKANL-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Om4oC1EB_jcoSZQff7k3-0" value="Leitor QR Code" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="Zt6HtMiGlr2uJh5FGjIH-1">
+          <mxGeometry x="765" y="-790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XMwcb1ZrsIxLYa2AJfSP-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Zt6HtMiGlr2uJh5FGjIH-1" source="mJoxGgI8puOoh07HKANL-0" target="XMwcb1ZrsIxLYa2AJfSP-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XMwcb1ZrsIxLYa2AJfSP-2" value="Acesso Negado" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XMwcb1ZrsIxLYa2AJfSP-1">
+          <mxGeometry x="0.3007" y="3" relative="1" as="geometry">
+            <mxPoint x="20" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XMwcb1ZrsIxLYa2AJfSP-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Zt6HtMiGlr2uJh5FGjIH-1" source="mJoxGgI8puOoh07HKANL-0" target="XMwcb1ZrsIxLYa2AJfSP-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XMwcb1ZrsIxLYa2AJfSP-8" value="Acesso Permitido" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XMwcb1ZrsIxLYa2AJfSP-7">
+          <mxGeometry x="-0.2191" y="-1" relative="1" as="geometry">
+            <mxPoint x="8" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mJoxGgI8puOoh07HKANL-0" value="Solicitação de Permissão de Acesso à Câmera" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="Zt6HtMiGlr2uJh5FGjIH-1">
+          <mxGeometry x="765" y="-660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XMwcb1ZrsIxLYa2AJfSP-0" value="Não Ativa Câmera e não lê QR Code" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="Zt6HtMiGlr2uJh5FGjIH-1">
+          <mxGeometry x="490" y="-660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qK5byP7ZrO_XuRBfTPY8-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Zt6HtMiGlr2uJh5FGjIH-1" source="XMwcb1ZrsIxLYa2AJfSP-3" target="qK5byP7ZrO_XuRBfTPY8-0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1090" y="-480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qK5byP7ZrO_XuRBfTPY8-2" value="Visualização &lt;br&gt;de Produtos" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qK5byP7ZrO_XuRBfTPY8-1">
+          <mxGeometry x="0.0084" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XMwcb1ZrsIxLYa2AJfSP-3" value="Ativação da Câmera e Leitura do QR Code" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="Zt6HtMiGlr2uJh5FGjIH-1">
+          <mxGeometry x="1030" y="-660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qK5byP7ZrO_XuRBfTPY8-0" value="Visualização de Produtos" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="Zt6HtMiGlr2uJh5FGjIH-1">
+          <mxGeometry x="900" y="-510" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
