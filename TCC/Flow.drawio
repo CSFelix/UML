@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-18T00:50:31.061Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 OPR/73.0.3856.415" etag="q4CT72MLOMwvjSCSfyDN" version="14.4.9" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2021-10-13T22:32:42.236Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 OPR/79.0.4143.73" etag="M_VLB8gxJu2ulzpWAJB_" version="15.3.7" type="github" pages="12">
   <diagram id="1hXZXcbIeMA-eC_h1E_a" name="Flow Legendas">
-    <mxGraphModel dx="982" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1439" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="G4pnr93NUg9ScqsM1Aka-0" />
         <mxCell id="G4pnr93NUg9ScqsM1Aka-1" parent="G4pnr93NUg9ScqsM1Aka-0" />
@@ -65,7 +65,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Functions - Connections">
-    <mxGraphModel dx="982" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1439" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -293,7 +293,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="EKGb_4UzgfUjkiK1DKs2" name="Flow - Login">
-    <mxGraphModel dx="982" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1439" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="2BNiPrtsYN4nOuWGU8Up-0" />
         <mxCell id="2BNiPrtsYN4nOuWGU8Up-1" parent="2BNiPrtsYN4nOuWGU8Up-0" />
@@ -464,7 +464,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Zf6utwZhoCQyUYWk9h4O" name="Flow - Cadastro">
-    <mxGraphModel dx="982" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1439" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0WdLKuu2tDq4oQUrD1vw-0" />
         <mxCell id="0WdLKuu2tDq4oQUrD1vw-1" parent="0WdLKuu2tDq4oQUrD1vw-0" />
@@ -697,7 +697,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="X0U7TujpCczvxo2cNH14" name="Flow - Esqueceu Senha">
-    <mxGraphModel dx="982" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1439" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="eTdc56u8c3z8WF2Q3v0--0" />
         <mxCell id="eTdc56u8c3z8WF2Q3v0--1" parent="eTdc56u8c3z8WF2Q3v0--0" />
@@ -842,7 +842,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="oUyTQ8UypKq_OGUE4QOU" name="Flow - Alterar Senha">
-    <mxGraphModel dx="982" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1439" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="7KCk0dLAt7kNg0jFkod3-0" />
         <mxCell id="7KCk0dLAt7kNg0jFkod3-1" parent="7KCk0dLAt7kNg0jFkod3-0" />
@@ -1039,7 +1039,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="IPsA5o9dYCsPI-I0EeS3" name="Flow - Painel">
-    <mxGraphModel dx="982" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1439" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="LTrhHk4gRGZ_spkr1bDR-0" />
         <mxCell id="LTrhHk4gRGZ_spkr1bDR-1" parent="LTrhHk4gRGZ_spkr1bDR-0" />
@@ -1102,11 +1102,6 @@
         <mxCell id="3p0U_bIK-7RN86_cB0q2-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;endArrow=classic;endFill=1;" parent="LTrhHk4gRGZ_spkr1bDR-1" source="sLbBIPwbjWZ2UJGjPtgD-5" target="3p0U_bIK-7RN86_cB0q2-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3p0U_bIK-7RN86_cB0q2-14" value="Redirecionamentos" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="3p0U_bIK-7RN86_cB0q2-13" vertex="1" connectable="0">
-          <mxGeometry x="-0.835" y="-3" relative="1" as="geometry">
-            <mxPoint x="32.5" y="-3" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="3p0U_bIK-7RN86_cB0q2-19" value="Market" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="3p0U_bIK-7RN86_cB0q2-13" vertex="1" connectable="0">
           <mxGeometry x="0.5829" y="-2" relative="1" as="geometry">
             <mxPoint x="15.5" as="offset" />
@@ -1118,6 +1113,27 @@
         <mxCell id="7DL0qEOuB1yeT3VmM8Hd-2" value="Logoff" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="7DL0qEOuB1yeT3VmM8Hd-1" vertex="1" connectable="0">
           <mxGeometry x="0.2133" y="-1" relative="1" as="geometry">
             <mxPoint x="0.95" y="-10.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nqqTZX9dsVb3C176YGNw-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.008;entryY=0.34;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="LTrhHk4gRGZ_spkr1bDR-1" source="sLbBIPwbjWZ2UJGjPtgD-5" target="nqqTZX9dsVb3C176YGNw-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nqqTZX9dsVb3C176YGNw-6" value="Leitor QR Code" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nqqTZX9dsVb3C176YGNw-4">
+          <mxGeometry x="0.6559" y="2" relative="1" as="geometry">
+            <mxPoint x="14" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nqqTZX9dsVb3C176YGNw-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="LTrhHk4gRGZ_spkr1bDR-1" source="sLbBIPwbjWZ2UJGjPtgD-5" target="nqqTZX9dsVb3C176YGNw-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nqqTZX9dsVb3C176YGNw-7" value="Info" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nqqTZX9dsVb3C176YGNw-5">
+          <mxGeometry x="0.6906" relative="1" as="geometry">
+            <mxPoint x="22" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nqqTZX9dsVb3C176YGNw-8" value="Redirecionamentos" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nqqTZX9dsVb3C176YGNw-5">
+          <mxGeometry x="-0.8207" relative="1" as="geometry">
+            <mxPoint x="15" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sLbBIPwbjWZ2UJGjPtgD-5" value="Painel" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="LTrhHk4gRGZ_spkr1bDR-1" vertex="1">
@@ -1181,6 +1197,12 @@
         </mxCell>
         <mxCell id="uEa8Sl_aSiyT2XcXWzUf-3" value="G4" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" parent="LTrhHk4gRGZ_spkr1bDR-1" vertex="1">
           <mxGeometry x="233.25" y="600" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nqqTZX9dsVb3C176YGNw-0" value="H4" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="LTrhHk4gRGZ_spkr1bDR-1">
+          <mxGeometry x="550" y="450" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nqqTZX9dsVb3C176YGNw-1" value="H5" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="LTrhHk4gRGZ_spkr1bDR-1">
+          <mxGeometry x="550" y="540" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -1803,7 +1825,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="JwsDGkpZP2nJ4GoAmM79" name="Flow - Cadastro Produto">
-    <mxGraphModel dx="982" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1439" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="ts7YpT-WsYbqLCe-vMs0-0" />
         <mxCell id="ts7YpT-WsYbqLCe-vMs0-1" parent="ts7YpT-WsYbqLCe-vMs0-0" />
