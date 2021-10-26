@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-26T22:41:03.197Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36 OPR/80.0.4170.61" etag="jz2nkAXl6sQdtq7N7UKV" version="15.5.9" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2021-10-26T22:41:48.590Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36 OPR/80.0.4170.61" etag="VdGWSO9fCk3sXgJ_c2kn" version="15.5.9" type="github" pages="8">
   <diagram id="o9J-r-5j8x92hlVa1QkN" name="Legenda">
     <mxGraphModel dx="996" dy="1789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -275,7 +275,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="F9Xi8azQtg0ScV4k3DFZ" name="Market">
-    <mxGraphModel dx="1439" dy="1789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="996" dy="1789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="6NQLFO6yXk96oUiKo80c-0" />
         <mxCell id="6NQLFO6yXk96oUiKo80c-1" parent="6NQLFO6yXk96oUiKo80c-0" />
@@ -300,20 +300,8 @@
         <mxCell id="6NQLFO6yXk96oUiKo80c-9" value="Consulta de Produtos" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="6NQLFO6yXk96oUiKo80c-1" vertex="1">
           <mxGeometry x="765" y="-740" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6NQLFO6yXk96oUiKo80c-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="6NQLFO6yXk96oUiKo80c-1" source="6NQLFO6yXk96oUiKo80c-10" target="6NQLFO6yXk96oUiKo80c-14" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="6NQLFO6yXk96oUiKo80c-10" value="Visualização de Produtos" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="6NQLFO6yXk96oUiKo80c-1" vertex="1">
           <mxGeometry x="1010" y="-740" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="6NQLFO6yXk96oUiKo80c-13" value="Bot envia informações" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="6NQLFO6yXk96oUiKo80c-1" vertex="1">
-          <mxGeometry x="770" y="-584" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="6NQLFO6yXk96oUiKo80c-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="6NQLFO6yXk96oUiKo80c-1" source="6NQLFO6yXk96oUiKo80c-14" target="6NQLFO6yXk96oUiKo80c-13" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="6NQLFO6yXk96oUiKo80c-14" value="Solicita informações no Whatsapp e/ou Telegram" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="6NQLFO6yXk96oUiKo80c-1" vertex="1">
-          <mxGeometry x="1010" y="-584" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
