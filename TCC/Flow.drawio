@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-26T22:27:16.983Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36 OPR/80.0.4170.61" etag="ZENUJBzz2RESvVU_eovl" version="15.5.9" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2021-10-26T22:28:34.074Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36 OPR/80.0.4170.61" etag="oG7lBvL7ypExk120UlyB" version="15.5.9" type="github" pages="15">
   <diagram id="1hXZXcbIeMA-eC_h1E_a" name="Flow Legendas">
     <mxGraphModel dx="996" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1888,7 +1888,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="JwsDGkpZP2nJ4GoAmM79" name="Flow - Cadastro Produto">
-    <mxGraphModel dx="1439" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="996" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="ts7YpT-WsYbqLCe-vMs0-0" />
         <mxCell id="ts7YpT-WsYbqLCe-vMs0-1" parent="ts7YpT-WsYbqLCe-vMs0-0" />
@@ -2046,27 +2046,13 @@
         <mxCell id="UmSsaru5-6d1vatxLB5K-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="ts7YpT-WsYbqLCe-vMs0-1" source="39_QQFm1YL7BzLzo_47U-0" target="UmSsaru5-6d1vatxLB5K-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UmSsaru5-6d1vatxLB5K-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="ts7YpT-WsYbqLCe-vMs0-1" source="39_QQFm1YL7BzLzo_47U-0" target="UmSsaru5-6d1vatxLB5K-3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="UmSsaru5-6d1vatxLB5K-31" value="Funções" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="UmSsaru5-6d1vatxLB5K-30" vertex="1" connectable="0">
-          <mxGeometry x="-0.312" y="-2" relative="1" as="geometry">
-            <mxPoint x="8" y="2" as="offset" />
+        <mxCell id="cPjBi7PCszaVo2kd7Dkw-0" value="Função" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UmSsaru5-6d1vatxLB5K-29">
+          <mxGeometry x="-0.1972" y="-1" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="39_QQFm1YL7BzLzo_47U-0" value="Gerar QRCode" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="ts7YpT-WsYbqLCe-vMs0-1" vertex="1">
           <mxGeometry x="435" y="720" width="70" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="UmSsaru5-6d1vatxLB5K-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="ts7YpT-WsYbqLCe-vMs0-1" source="UmSsaru5-6d1vatxLB5K-3" target="UmSsaru5-6d1vatxLB5K-14" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="SRgX8qnM8wcfBnW1KqqQ-0" value="Checar Whatsapp/Telegram" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="UmSsaru5-6d1vatxLB5K-32" vertex="1" connectable="0">
-          <mxGeometry x="0.223" y="4" relative="1" as="geometry">
-            <mxPoint x="33" y="-4" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="UmSsaru5-6d1vatxLB5K-3" value="Compartilhar QRCode" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="ts7YpT-WsYbqLCe-vMs0-1" vertex="1">
-          <mxGeometry x="240" y="720" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UmSsaru5-6d1vatxLB5K-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="ts7YpT-WsYbqLCe-vMs0-1" source="UmSsaru5-6d1vatxLB5K-6" target="UmSsaru5-6d1vatxLB5K-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -2081,72 +2067,6 @@
         </mxCell>
         <mxCell id="UmSsaru5-6d1vatxLB5K-8" value="Salvar no Dispositivo" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="ts7YpT-WsYbqLCe-vMs0-1" vertex="1">
           <mxGeometry x="80" y="630" width="70" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="UmSsaru5-6d1vatxLB5K-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="ts7YpT-WsYbqLCe-vMs0-1" source="UmSsaru5-6d1vatxLB5K-14" target="UmSsaru5-6d1vatxLB5K-17" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="UmSsaru5-6d1vatxLB5K-10" value="Sim" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="UmSsaru5-6d1vatxLB5K-9" vertex="1" connectable="0">
-          <mxGeometry x="-0.8501" relative="1" as="geometry">
-            <mxPoint x="17" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="UmSsaru5-6d1vatxLB5K-11" value="(Usuário deve Escolher entre&lt;br&gt;Whatsapp e Telegram)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="UmSsaru5-6d1vatxLB5K-9" vertex="1" connectable="0">
-          <mxGeometry x="0.0931" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SRgX8qnM8wcfBnW1KqqQ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="ts7YpT-WsYbqLCe-vMs0-1" source="UmSsaru5-6d1vatxLB5K-14" target="UmSsaru5-6d1vatxLB5K-22" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="SRgX8qnM8wcfBnW1KqqQ-2" value="Não" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="SRgX8qnM8wcfBnW1KqqQ-1" vertex="1" connectable="0">
-          <mxGeometry x="0.013" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="UmSsaru5-6d1vatxLB5K-14" value="Usuário tem Whatsapp e Telegram?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" parent="ts7YpT-WsYbqLCe-vMs0-1" vertex="1">
-          <mxGeometry x="10" y="790" width="105" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="SRgX8qnM8wcfBnW1KqqQ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="ts7YpT-WsYbqLCe-vMs0-1" source="UmSsaru5-6d1vatxLB5K-17" target="MTmBP1CEf_cdONdhLBs8-0" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="UmSsaru5-6d1vatxLB5K-17" value="Enviar QRCode ao Contato Escolhido" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="ts7YpT-WsYbqLCe-vMs0-1" vertex="1">
-          <mxGeometry x="360" y="810" width="70" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="SRgX8qnM8wcfBnW1KqqQ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="ts7YpT-WsYbqLCe-vMs0-1" source="UmSsaru5-6d1vatxLB5K-22" target="UmSsaru5-6d1vatxLB5K-24" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="SRgX8qnM8wcfBnW1KqqQ-6" value="Sim" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="SRgX8qnM8wcfBnW1KqqQ-3" vertex="1" connectable="0">
-          <mxGeometry x="0.5298" y="2" relative="1" as="geometry">
-            <mxPoint x="-2" y="8.5" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SRgX8qnM8wcfBnW1KqqQ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="ts7YpT-WsYbqLCe-vMs0-1" source="UmSsaru5-6d1vatxLB5K-22" target="UmSsaru5-6d1vatxLB5K-27" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="SRgX8qnM8wcfBnW1KqqQ-5" value="Não" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="SRgX8qnM8wcfBnW1KqqQ-4" vertex="1" connectable="0">
-          <mxGeometry x="0.7569" y="1" relative="1" as="geometry">
-            <mxPoint x="-1" y="9.5" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="UmSsaru5-6d1vatxLB5K-22" value="Usuário tem Whatsapp?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" parent="ts7YpT-WsYbqLCe-vMs0-1" vertex="1">
-          <mxGeometry x="185" y="910" width="105" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="SRgX8qnM8wcfBnW1KqqQ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="ts7YpT-WsYbqLCe-vMs0-1" source="UmSsaru5-6d1vatxLB5K-24" target="MTmBP1CEf_cdONdhLBs8-0" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="UmSsaru5-6d1vatxLB5K-24" value="Enviar QRCode ao Contato Escolhido&lt;br&gt;(&lt;b&gt;Whatsapp&lt;/b&gt;)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="ts7YpT-WsYbqLCe-vMs0-1" vertex="1">
-          <mxGeometry x="355" y="1010" width="95" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="SRgX8qnM8wcfBnW1KqqQ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="ts7YpT-WsYbqLCe-vMs0-1" source="UmSsaru5-6d1vatxLB5K-27" target="MTmBP1CEf_cdONdhLBs8-0" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="SRgX8qnM8wcfBnW1KqqQ-16" value="Redirecionamento" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="SRgX8qnM8wcfBnW1KqqQ-13" vertex="1" connectable="0">
-          <mxGeometry x="0.0355" y="1" relative="1" as="geometry">
-            <mxPoint x="0.95" y="-124.3" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="UmSsaru5-6d1vatxLB5K-27" value="Enviar QRCode ao Contato Escolhido&lt;br&gt;(&lt;b&gt;Telegram&lt;/b&gt;)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="ts7YpT-WsYbqLCe-vMs0-1" vertex="1">
-          <mxGeometry x="515" y="1010" width="95" height="80" as="geometry" />
         </mxCell>
         <mxCell id="deDb37JSW1fTY1kaXkQc-0" value="Tabela&lt;br&gt;Produtos" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="ts7YpT-WsYbqLCe-vMs0-1" vertex="1">
           <mxGeometry x="720" y="825" width="78.5" height="65" as="geometry" />
