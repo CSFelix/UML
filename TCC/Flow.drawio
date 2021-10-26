@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-13T22:48:09.152Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 OPR/79.0.4143.73" etag="Rc8epw68CKgcH1rUUdIi" version="15.3.7" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2021-10-26T22:27:16.983Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36 OPR/80.0.4170.61" etag="ZENUJBzz2RESvVU_eovl" version="15.5.9" type="github" pages="15">
   <diagram id="1hXZXcbIeMA-eC_h1E_a" name="Flow Legendas">
-    <mxGraphModel dx="1439" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="996" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="G4pnr93NUg9ScqsM1Aka-0" />
         <mxCell id="G4pnr93NUg9ScqsM1Aka-1" parent="G4pnr93NUg9ScqsM1Aka-0" />
@@ -1039,7 +1039,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="IPsA5o9dYCsPI-I0EeS3" name="Flow - Painel">
-    <mxGraphModel dx="1439" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="996" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="LTrhHk4gRGZ_spkr1bDR-0" />
         <mxCell id="LTrhHk4gRGZ_spkr1bDR-1" parent="LTrhHk4gRGZ_spkr1bDR-0" />
@@ -1115,23 +1115,23 @@
             <mxPoint x="0.95" y="-10.5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nqqTZX9dsVb3C176YGNw-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.008;entryY=0.34;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="LTrhHk4gRGZ_spkr1bDR-1" source="sLbBIPwbjWZ2UJGjPtgD-5" target="nqqTZX9dsVb3C176YGNw-0">
+        <mxCell id="nqqTZX9dsVb3C176YGNw-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.008;entryY=0.34;entryDx=0;entryDy=0;entryPerimeter=0;" parent="LTrhHk4gRGZ_spkr1bDR-1" source="sLbBIPwbjWZ2UJGjPtgD-5" target="nqqTZX9dsVb3C176YGNw-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nqqTZX9dsVb3C176YGNw-6" value="Leitor QR Code" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nqqTZX9dsVb3C176YGNw-4">
+        <mxCell id="nqqTZX9dsVb3C176YGNw-6" value="Leitor QR Code" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="nqqTZX9dsVb3C176YGNw-4" vertex="1" connectable="0">
           <mxGeometry x="0.6559" y="2" relative="1" as="geometry">
             <mxPoint x="14" y="5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nqqTZX9dsVb3C176YGNw-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="LTrhHk4gRGZ_spkr1bDR-1" source="sLbBIPwbjWZ2UJGjPtgD-5" target="nqqTZX9dsVb3C176YGNw-1">
+        <mxCell id="nqqTZX9dsVb3C176YGNw-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="LTrhHk4gRGZ_spkr1bDR-1" source="sLbBIPwbjWZ2UJGjPtgD-5" target="nqqTZX9dsVb3C176YGNw-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nqqTZX9dsVb3C176YGNw-7" value="Info" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nqqTZX9dsVb3C176YGNw-5">
+        <mxCell id="nqqTZX9dsVb3C176YGNw-7" value="Info" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="nqqTZX9dsVb3C176YGNw-5" vertex="1" connectable="0">
           <mxGeometry x="0.6906" relative="1" as="geometry">
             <mxPoint x="22" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nqqTZX9dsVb3C176YGNw-8" value="Redirecionamentos" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nqqTZX9dsVb3C176YGNw-5">
+        <mxCell id="nqqTZX9dsVb3C176YGNw-8" value="Redirecionamentos" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="nqqTZX9dsVb3C176YGNw-5" vertex="1" connectable="0">
           <mxGeometry x="-0.8207" relative="1" as="geometry">
             <mxPoint x="15" as="offset" />
           </mxGeometry>
@@ -1198,17 +1198,17 @@
         <mxCell id="uEa8Sl_aSiyT2XcXWzUf-3" value="G4" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" parent="LTrhHk4gRGZ_spkr1bDR-1" vertex="1">
           <mxGeometry x="233.25" y="600" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="nqqTZX9dsVb3C176YGNw-0" value="H4" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="LTrhHk4gRGZ_spkr1bDR-1">
+        <mxCell id="nqqTZX9dsVb3C176YGNw-0" value="H4" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" parent="LTrhHk4gRGZ_spkr1bDR-1" vertex="1">
           <mxGeometry x="550" y="450" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="nqqTZX9dsVb3C176YGNw-1" value="H5" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="LTrhHk4gRGZ_spkr1bDR-1">
+        <mxCell id="nqqTZX9dsVb3C176YGNw-1" value="H5" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" parent="LTrhHk4gRGZ_spkr1bDR-1" vertex="1">
           <mxGeometry x="550" y="540" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="vK89qiKNft9dnxQsNWpM" name="Flow - Dashboard">
-    <mxGraphModel dx="1439" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="996" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="2jjRBT72lYXneZBXnlEP-0" />
         <mxCell id="2jjRBT72lYXneZBXnlEP-1" parent="2jjRBT72lYXneZBXnlEP-0" />
@@ -1301,7 +1301,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ARUm8Wc5zkye3OT9g8tW" name="Flow - Tabela Produtos">
-    <mxGraphModel dx="1439" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="996" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="DcAQErVD2mf9AOAK8_VO-0" />
         <mxCell id="DcAQErVD2mf9AOAK8_VO-1" parent="DcAQErVD2mf9AOAK8_VO-0" />
@@ -1405,7 +1405,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="y8bCJfafavaO3mFARLmq" name="Flow - Relatórios">
-    <mxGraphModel dx="1439" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="996" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="F-_fxol3whh6rPtzObzQ-0" />
         <mxCell id="F-_fxol3whh6rPtzObzQ-1" parent="F-_fxol3whh6rPtzObzQ-0" />
@@ -1500,15 +1500,6 @@
         <mxCell id="dTAVe5xEULeU6YBL2gk1-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="F-_fxol3whh6rPtzObzQ-1" source="dTAVe5xEULeU6YBL2gk1-0" target="dTAVe5xEULeU6YBL2gk1-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dTAVe5xEULeU6YBL2gk1-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="F-_fxol3whh6rPtzObzQ-1" target="dTAVe5xEULeU6YBL2gk1-2" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="115" y="350" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="115" y="420" />
-              <mxPoint x="265" y="420" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="dTAVe5xEULeU6YBL2gk1-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="F-_fxol3whh6rPtzObzQ-1" source="dTAVe5xEULeU6YBL2gk1-0" target="dTAVe5xEULeU6YBL2gk1-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -1519,17 +1510,6 @@
         </mxCell>
         <mxCell id="dTAVe5xEULeU6YBL2gk1-0" value="Gerar QRCode" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="F-_fxol3whh6rPtzObzQ-1" vertex="1">
           <mxGeometry x="80" y="290" width="70" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="dTAVe5xEULeU6YBL2gk1-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="F-_fxol3whh6rPtzObzQ-1" source="dTAVe5xEULeU6YBL2gk1-2" target="dTAVe5xEULeU6YBL2gk1-12" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="dTAVe5xEULeU6YBL2gk1-14" value="Checar Whatsapp/Telegram" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="dTAVe5xEULeU6YBL2gk1-13" vertex="1" connectable="0">
-          <mxGeometry x="0.309" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dTAVe5xEULeU6YBL2gk1-2" value="Compartilhar QRCode" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="F-_fxol3whh6rPtzObzQ-1" vertex="1">
-          <mxGeometry x="230" y="490" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dTAVe5xEULeU6YBL2gk1-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="F-_fxol3whh6rPtzObzQ-1" source="dTAVe5xEULeU6YBL2gk1-3" target="dTAVe5xEULeU6YBL2gk1-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1547,80 +1527,6 @@
         </mxCell>
         <mxCell id="dTAVe5xEULeU6YBL2gk1-9" value="Salvar no Dispositivo" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="F-_fxol3whh6rPtzObzQ-1" vertex="1">
           <mxGeometry x="130" y="640" width="70" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="dTAVe5xEULeU6YBL2gk1-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="F-_fxol3whh6rPtzObzQ-1" source="dTAVe5xEULeU6YBL2gk1-12" target="dTAVe5xEULeU6YBL2gk1-15" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="dTAVe5xEULeU6YBL2gk1-28" value="Sim" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="dTAVe5xEULeU6YBL2gk1-16" vertex="1" connectable="0">
-          <mxGeometry x="-0.8501" relative="1" as="geometry">
-            <mxPoint x="17" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dTAVe5xEULeU6YBL2gk1-29" value="(Usuário deve Escolher entre&lt;br&gt;Whatsapp e Telegram)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="dTAVe5xEULeU6YBL2gk1-16" vertex="1" connectable="0">
-          <mxGeometry x="0.0931" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dTAVe5xEULeU6YBL2gk1-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="F-_fxol3whh6rPtzObzQ-1" source="dTAVe5xEULeU6YBL2gk1-12" target="dTAVe5xEULeU6YBL2gk1-17" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="dTAVe5xEULeU6YBL2gk1-19" value="Não" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="dTAVe5xEULeU6YBL2gk1-18" vertex="1" connectable="0">
-          <mxGeometry x="0.2044" y="4" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dTAVe5xEULeU6YBL2gk1-12" value="Usuário tem Whatsapp e Telegram?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" parent="F-_fxol3whh6rPtzObzQ-1" vertex="1">
-          <mxGeometry x="320" y="620" width="105" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="JbHZVwjFz3yyGtbeit0L-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="F-_fxol3whh6rPtzObzQ-1" source="dTAVe5xEULeU6YBL2gk1-15" target="JbHZVwjFz3yyGtbeit0L-0" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="JbHZVwjFz3yyGtbeit0L-4" value="Redirecionamento" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="JbHZVwjFz3yyGtbeit0L-1" vertex="1" connectable="0">
-          <mxGeometry x="0.3603" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dTAVe5xEULeU6YBL2gk1-15" value="Enviar QRCode ao Contato Escolhido" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="F-_fxol3whh6rPtzObzQ-1" vertex="1">
-          <mxGeometry x="582.5" y="560" width="70" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="dTAVe5xEULeU6YBL2gk1-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="F-_fxol3whh6rPtzObzQ-1" source="dTAVe5xEULeU6YBL2gk1-17" target="dTAVe5xEULeU6YBL2gk1-21" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="dTAVe5xEULeU6YBL2gk1-26" value="Não" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="dTAVe5xEULeU6YBL2gk1-24" vertex="1" connectable="0">
-          <mxGeometry x="0.1025" y="-5" relative="1" as="geometry">
-            <mxPoint x="0.5" y="-5" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dTAVe5xEULeU6YBL2gk1-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="F-_fxol3whh6rPtzObzQ-1" source="dTAVe5xEULeU6YBL2gk1-17" target="dTAVe5xEULeU6YBL2gk1-20" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="dTAVe5xEULeU6YBL2gk1-27" value="Sim" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="dTAVe5xEULeU6YBL2gk1-25" vertex="1" connectable="0">
-          <mxGeometry x="-0.1377" y="-3" relative="1" as="geometry">
-            <mxPoint x="-14.5" y="3" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dTAVe5xEULeU6YBL2gk1-17" value="Usuário tem Whatsapp?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" parent="F-_fxol3whh6rPtzObzQ-1" vertex="1">
-          <mxGeometry x="320" y="810" width="105" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="JbHZVwjFz3yyGtbeit0L-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="F-_fxol3whh6rPtzObzQ-1" source="dTAVe5xEULeU6YBL2gk1-20" target="JbHZVwjFz3yyGtbeit0L-0" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="dTAVe5xEULeU6YBL2gk1-20" value="Enviar QRCode ao Contato Escolhido&lt;br&gt;(&lt;b&gt;Whatsapp&lt;/b&gt;)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="F-_fxol3whh6rPtzObzQ-1" vertex="1">
-          <mxGeometry x="230" y="1030" width="95" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="JbHZVwjFz3yyGtbeit0L-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="F-_fxol3whh6rPtzObzQ-1" source="dTAVe5xEULeU6YBL2gk1-21" target="JbHZVwjFz3yyGtbeit0L-0" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="JbHZVwjFz3yyGtbeit0L-5" value="Redirecionamento" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="JbHZVwjFz3yyGtbeit0L-2" vertex="1" connectable="0">
-          <mxGeometry x="0.4743" y="-4" relative="1" as="geometry">
-            <mxPoint y="1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dTAVe5xEULeU6YBL2gk1-21" value="Enviar QRCode ao Contato Escolhido&lt;br&gt;(&lt;b&gt;Telegram&lt;/b&gt;)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="F-_fxol3whh6rPtzObzQ-1" vertex="1">
-          <mxGeometry x="445" y="1030" width="95" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="JbHZVwjFz3yyGtbeit0L-0" value="Relatórios" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="F-_fxol3whh6rPtzObzQ-1" vertex="1">
-          <mxGeometry x="578.25" y="820" width="78.5" height="65" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
